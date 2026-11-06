@@ -1,0 +1,8 @@
+#
+# Fixing versions for Python 3.7 compatibility
+#  - pymodbus 3.x requires Python 3.8 or newer
+#  - solaredge_modbus 0.7.1 and newer require Python 3.8 or newer
+#  - solaredge_modbus 0.7.0 is the latest release supporting Python 3.7
+#
+pymodbus==2.5.3
+solaredge_modbus==0.7.0
